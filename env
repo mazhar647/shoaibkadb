@@ -1,5 +1,5 @@
 HOST=eu-cdbr-west-01.cleardb.com
-US=b7bf556282559b
-PWD=29205c40
-DATABASE=heroku_18f0b3230b6e460
+US=b26b0d05c6677e
+PWD=bd31c9ad
+DATABASE=heroku_dab50d822a870ef
 PORT=3009
