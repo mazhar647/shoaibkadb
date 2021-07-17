@@ -1,4 +1,4 @@
-HOST=eu-cdbr-west-01.cleardb.com
+HOST=ip-10-0-9-98.eu-west-1.compute.internal:37988
 US=b26b0d05c6677e
 PWD=bd31c9ad
 DATABASE=heroku_dab50d822a870ef
