@@ -1,5 +1,5 @@
-HOST=162.55.100.32
-US=mssoftwa_entema_user
-PWD=[PUj^EE+i1D8
-DATABASE=mssoftwa_entema_db
+HOST=eu-cdbr-west-01.cleardb.com
+US=b26b0d05c6677e
+PWD=bd31c9ad
+DATABASE=heroku_dab50d822a870ef
 PORT=3009
